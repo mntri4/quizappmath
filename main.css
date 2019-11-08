@@ -1,0 +1,52 @@
+body{
+    background-color: #4f5a65;
+}
+
+main {
+    border: 2px solid black;
+    padding: 60px;
+    text-align: center;
+}
+button {
+    border: 1px solid yellow;
+    border-radius: 5px;
+    color: green;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 35px 25px;
+    padding: 15px 25px;
+}
+button:hover {
+    background: green;
+    color: yellow;
+}
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 28px;
+    padding: 20px;
+}
+.answer {
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 5px;
+    color: #d5d522;
+  
+}
+.footer{
+    padding: 15px;
+    text-align: center;
+}
+.wrong {
+    color: #d5d522;
+    padding: 15px 30px; 
+    //color: red;
+}
+.right {
+    color: #d5d522;
+}
+.me{
+    color: white;
+}
+.you{
+    color: black;
+    }
