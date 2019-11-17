@@ -47,10 +47,10 @@ const QUESTIONS = [
     {
         question: 'What is 15 X 3?',
         answers: [
-            { text: 45, correct: false },
+            { text: 45, correct: true },
             { text: 46, correct: false },
             { text: 52, correct: false },
-            { text: 60, correct: true }
+            { text: 60, correct: false }
         ]
     },
     {
